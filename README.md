@@ -1,6 +1,6 @@
 # Data_Analysis_Part2(Pizza_Sales_SQL_SERVER_Power_BI)
 
-#### In This project of Pizza Sales , my 1st preference with MS SQL SERVER 2019  & the 2nd part invloves data cleaning & Dashboard analysis using Power BI
+#### In This project of Pizza Sales , my 1st preference with MS SQL SERVER 2019  & the 2nd part invloves data cleaning, Data Visualization & Dashboard analysis using Power BI
 
 ![image](https://github.com/Siddhartha082/Data_Analysis_Part2-Pizza_Sales_SQL_SERVER_Power_BI-/assets/110781138/5f2543f0-d194-46a0-94d1-178b4f5645f0)
 
