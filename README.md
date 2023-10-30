@@ -1,6 +1,8 @@
 # Data_Analysis_Part2(Pizza_Sales_SQL_SERVER_To_MS_EXCEL)
 
 #### In This project of Pizza Sales , my 1st preference with MS SQL SERVER 2019  & the 2nd part invloves data cleaning, Data Visualization & Dashboard analysis using MS_EXCEL
+## Final Chapter on Pizza Sales Part 3- (Importing File from SQL Server to MS Excel - DASHBOARD)
+Link https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL.git
 
 ![image](https://github.com/Siddhartha082/Data_Analysis_Part2-Pizza_Sales_SQL_SERVER_Power_BI-/assets/110781138/5f2543f0-d194-46a0-94d1-178b4f5645f0)
 
