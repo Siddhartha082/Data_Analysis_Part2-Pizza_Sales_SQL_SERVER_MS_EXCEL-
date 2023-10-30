@@ -49,7 +49,7 @@
 ![image](https://github.com/Siddhartha082/Data_Analysis_Part2-Pizza_Sales_SQL_SERVER_Power_BI-/assets/110781138/fdf9216c-a42c-4113-8a48-b2eb2393d8e6)
 
 
-### Part2 - Working on Power BI .. Soon to be Uploaded in a Day/ Twoo..
+Part 3_  Importing Flat File from SQL SERVER to MS Excel &  Cleaning ,Creating , Visualizing Data * imnplementing Data - Pizza Sales ) on MS EXCEL Plaftform
 Thnx
 Siddhartha
 Bangalore 
